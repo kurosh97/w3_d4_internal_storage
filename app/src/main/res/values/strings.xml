@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">w3_d4_Audio</string>
+    <string name="load_btn">Load</string>
+    <string name="save_btn_txt">Save</string>
+    <string name="ed_txt_hint">Write somthing and save it in internal storage</string>
+</resources>
